@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30608353378",
+    "project_id": "sendmeesage-26588",
+    "storage_bucket": "sendmeesage-26588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30608353378:android:dc956dafe2012aafc0493b",
+        "android_client_info": {
+          "package_name": "com.example.sendmeesage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30608353378-ciq67qdbqde4nh7gqsal63cedsjderqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghpdZC1ShlVwE_v5t8QXAORlGRE2sXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30608353378-ciq67qdbqde4nh7gqsal63cedsjderqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
